@@ -49,7 +49,7 @@ This project aims to raise awareness about the severity and distribution of crim
 
 
 PowerPoint Presentation
-The PowerPoint presentation titled "Crime Against Women in India: 2022 Analysis" is available in the Presentation folder. The report covers key insights from the SQL analysis, including:
+The PowerPoint presentation titled "Crime Against Women in India 2022 " is available in the Presentation folder. The report covers key insights from the SQL analysis, including:
 
 A summary of the dataset
 Visualizations of state-wise crime distributions
